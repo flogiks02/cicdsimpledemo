@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description/>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>cicd_simple_demo_test</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>pcotter-adm</sys_created_by>
+        <sys_created_on>2023-10-25 20:16:58</sys_created_on>
+        <sys_id>3cd6ed2e1b0e3510217ca9bfbd4bcb07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cicd_simple_demo_test</sys_name>
+        <sys_package display_value="cicdsimpledemo" source="b618e8ee1b863510217ca9bfbd4bcb7d">b618e8ee1b863510217ca9bfbd4bcb7d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="cicdsimpledemo">b618e8ee1b863510217ca9bfbd4bcb7d</sys_scope>
+        <sys_update_name>sys_atf_test_3cd6ed2e1b0e3510217ca9bfbd4bcb07</sys_update_name>
+        <sys_updated_by>pcotter-adm</sys_updated_by>
+        <sys_updated_on>2023-10-25 20:16:58</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=3cd6ed2e1b0e3510217ca9bfbd4bcb07"/>
+</record_update>
